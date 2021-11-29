@@ -1,0 +1,4 @@
+rootProject.name = "ClassIt"
+include ':app'
+include ':commonlib'
+include ':mobilertc'

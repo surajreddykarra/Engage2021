@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClassIt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="agora_app_id">491fda563b0044708be014d6a05fd483</string>
+    <string name="agora_access_token">006491fda563b0044708be014d6a05fd483IAD8eLxwNIWkMnSgxsAZ3W9e0aKKoOLArL6149oR3tA/yZtRn3IAAAAAEABf0riprIikYQEAAQCriKRh</string>
+
+</resources>

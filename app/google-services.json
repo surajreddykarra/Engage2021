@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096460019489",
+    "project_id": "classit-f9027",
+    "storage_bucket": "classit-f9027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096460019489:android:4ff4984bc798db29fe0060",
+        "android_client_info": {
+          "package_name": "com.classit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096460019489-du4rjo8m4bto54k5uo1r4aj75stlfpoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9Hlo-HraDcxocA7rInhRKXxLnsLqjkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096460019489-du4rjo8m4bto54k5uo1r4aj75stlfpoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

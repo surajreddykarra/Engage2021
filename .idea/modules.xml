@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClassIt.iml" filepath="$PROJECT_DIR$/.idea/modules/ClassIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClassIt.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClassIt.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonlib/ClassIt.commonlib.iml" filepath="$PROJECT_DIR$/.idea/modules/commonlib/ClassIt.commonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobilertc/ClassIt.mobilertc.iml" filepath="$PROJECT_DIR$/.idea/modules/mobilertc/ClassIt.mobilertc.iml" />
+    </modules>
+  </component>
+</project>
